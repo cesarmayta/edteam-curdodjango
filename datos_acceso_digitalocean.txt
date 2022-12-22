@@ -1,0 +1,18 @@
+ed2022Team
+
+Access the Django admin site
+    URL: http://143.110.147.0/admin
+    User: django
+    Pass: 18d6190ccda84c866aed457dfdbacdba
+
+Use these SFTP credentials to upload files with FileZilla/WinSCP/rsync/CyberDuck:
+    Host: 143.110.147.0
+    User: django
+    Pass: 18d6190ccda84c866aed457dfdbacdba
+
+Django is configured to use Postgres as its database. Use the following
+credentials to manage the database:
+    Database: django
+    User:     django
+    Pass:     3844dfa830f66da8970be1bf29b462e3
+
